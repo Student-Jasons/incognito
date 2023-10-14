@@ -8,6 +8,7 @@
 incognito는 하드웨어 단으로 보안을 위해 설계된 매신저 기기/서프트웨어 입니다.
 현제는 구상단계이며 추후 백지화될 가능성도 있습니다.
 
+Blog : https://pkincognito.blogspot.com/
 
 ## 원리
 
