@@ -1,0 +1,302 @@
+<mxfile host="app.diagrams.net" modified="2023-10-14T03:56:12.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uopwDFJqTGTXrn1Q0U_2" version="21.6.8" type="github">
+  <diagram name="페이지-1" id="tACo6N9l2DFsAqBTGE9L">
+    <mxGraphModel dx="1320" dy="5353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-1" value="&lt;h1 style=&quot;box-sizing: border-box; margin-right: 0px; margin-bottom: 16px; margin-left: 0px; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted)); color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255); margin-top: 0px !important;&quot; dir=&quot;auto&quot; id=&quot;user-content-incognito&quot; tabindex=&quot;-1&quot;&gt;&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none;&quot; href=&quot;https://github.com/Student-Jasons/incognito/tree/main#incognito&quot; class=&quot;heading-link&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;incognito&lt;/font&gt;&lt;/a&gt;&lt;/h1&gt;&lt;div&gt;send 알고리즘&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="-4640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-3" value="ID 99887에게 &quot;이거슨 태스트&quot; 라고 전송" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-4551" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-4474" as="sourcePoint" />
+            <mxPoint x="414" y="-4414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.987;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-8" target="apL4dgOo2YgR2wKRLBDM-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-8" value="상대의 게이트웨이가 나와 같느냐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="-4193" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-4083" as="sourcePoint" />
+            <mxPoint x="414" y="-3983" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-12" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-4039" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-15" value="게이트웨이와 상대방의 게이트웨이가 무결성 인증이 되어있는가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-4303" width="414" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-15" target="apL4dgOo2YgR2wKRLBDM-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-4223" as="sourcePoint" />
+            <mxPoint x="450" y="-4273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-17" value="매새지 상대방 RSA공계키로 암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-3980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.531;exitY=0.847;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-17" target="apL4dgOo2YgR2wKRLBDM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-3583" as="sourcePoint" />
+            <mxPoint x="414" y="-3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-20" target="apL4dgOo2YgR2wKRLBDM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-20" target="apL4dgOo2YgR2wKRLBDM-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-20" value="상대방의 기기가 켜저있는가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="-4410" width="216" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-22" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-4330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-23" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-4210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-25" value="암호화된 내용 서버 공개키로 암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="-3670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-26" value="암호화된 내용 본인 전용 암호키로 AES-256암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-3540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-25" target="apL4dgOo2YgR2wKRLBDM-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-3530" as="sourcePoint" />
+            <mxPoint x="670" y="-3580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.536;exitY=0.868;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-3270" as="sourcePoint" />
+            <mxPoint x="418" y="-3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-29" value="개이트웨이 전달" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="-3390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="apL4dgOo2YgR2wKRLBDM-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="-4560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-31" value="A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-4650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-32" value="B(임시 아이디 99887)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-4471" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-34" value="1:1 암호화 전달 가정" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-4551" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-29" target="apL4dgOo2YgR2wKRLBDM-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-3100" as="sourcePoint" />
+            <mxPoint x="421" y="-3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.513;exitY=0.907;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-36" target="apL4dgOo2YgR2wKRLBDM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-36" value="게이트웨이 AES-256암호화 해석" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="-3200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-38" target="apL4dgOo2YgR2wKRLBDM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-38" value="RSA 해석" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="-3070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-41" target="apL4dgOo2YgR2wKRLBDM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-41" value="ID 99887가 온라인인가" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="-2940" width="216" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-43" target="apL4dgOo2YgR2wKRLBDM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-43" target="apL4dgOo2YgR2wKRLBDM-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-43" value="ID 99887이 현재 게이트웨이에 물려있나" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="-2810" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-47" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="-2850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-48" target="apL4dgOo2YgR2wKRLBDM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-48" value="해당 ID 가진 클라이언트에 매새지 전달" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-50" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="421" y="-2700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-51" value="클라이언트 RSA 해석" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-53" value="매새지 RAM에 올림" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.464;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-51" target="apL4dgOo2YgR2wKRLBDM-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-2320" as="sourcePoint" />
+            <mxPoint x="670" y="-2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-53" target="apL4dgOo2YgR2wKRLBDM-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-2150" as="sourcePoint" />
+            <mxPoint x="420" y="-2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-56" value="표시" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="-2260.0000000000005" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.441;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-56" target="apL4dgOo2YgR2wKRLBDM-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="-2060" as="sourcePoint" />
+            <mxPoint x="410" y="-2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-58" value="N초에 삭제" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-2130.0000000000005" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-59" value="매새지 전송 거부" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-4420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-61" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="-4410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-4210" as="sourcePoint" />
+            <mxPoint x="660" y="-4263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-63" target="apL4dgOo2YgR2wKRLBDM-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-63" value="경고 매새지 표시" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-4290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-64" target="apL4dgOo2YgR2wKRLBDM-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491.26200000000017" y="-3960.1800000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="-3970" />
+              <mxPoint x="491" y="-3970" />
+              <mxPoint x="491" y="-3949" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-64" value="경고 무시 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-4171" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-67" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-4091" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-4140" as="sourcePoint" />
+            <mxPoint x="770" y="-4070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-69" value="매새지 전송 거부" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-4070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-70" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-4106" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-73" target="apL4dgOo2YgR2wKRLBDM-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-73" value="경고 매새지 표시" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-4189" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-74" target="apL4dgOo2YgR2wKRLBDM-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-74" value="경고 무시 여부" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-4070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-76" target="apL4dgOo2YgR2wKRLBDM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-76" value="매새지 상대방 RSA공계키로 암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-3940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-3340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-77" value="암호화된 내용상대방 개이트웨이&amp;nbsp;&lt;br&gt;본인 전용 암호키로 AES-256암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-3500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-78" target="apL4dgOo2YgR2wKRLBDM-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-78" value="암호화된 내용 상대방 개이트웨이 공개키로 암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-3690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-82" value="YES&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-3980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-3160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-85" value="암호화된 내용상대방 내&lt;br&gt;본인 전용 암호키로 AES-256암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-3190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-87" target="apL4dgOo2YgR2wKRLBDM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-87" value="암호화된 내용 내 개이트웨이 공개키로 암호화" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-3340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-92" value="상대방 개이트웨이에 인터넷으로 정보전달" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-2810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-94" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246" y="-2800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-95" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="248" y="-4180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.039;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="apL4dgOo2YgR2wKRLBDM-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="167" y="-4030.5" as="sourcePoint" />
+            <mxPoint x="274" y="-4040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-98" value="매새지 전송 거부" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-4040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-99" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-4061" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="apL4dgOo2YgR2wKRLBDM-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.138;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="apL4dgOo2YgR2wKRLBDM-92" target="apL4dgOo2YgR2wKRLBDM-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-3000" as="sourcePoint" />
+            <mxPoint x="480" y="-3050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
